@@ -4,7 +4,7 @@
 
 `npm install lie-parallel`
 
-`var cast = require('lie-parallel');`
+`var parallel = require('lie-parallel');`
 
 ###parallel
 
